@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".AboutActivity">
+
+
+    0<TextView
+        android:id="@+id/about_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:layout_marginTop="5dp"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_dark"
+        android:textSize="35sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/about_info1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="COEP News Feed App is an android application for the students of COEP to stay updated with the news of the college."
+        android:layout_below="@+id/about_app"
+        android:layout_marginTop="5dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="35sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/about_info2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login with your COEP email accounts and use the services of the app.
+#StayConnected.
+Version 1.0.0"
+        android:layout_below="@+id/about_info1"
+        android:layout_marginTop="5dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="35sp"
+        android:textStyle="italic"/>
+
+</RelativeLayout>

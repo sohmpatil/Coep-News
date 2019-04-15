@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coep News</string>
+    <string name="username">Username</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="button">Button</string>
+</resources>

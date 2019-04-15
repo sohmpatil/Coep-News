@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "451525792774",
+    "firebase_url": "https://coep-news-feed-app.firebaseio.com",
+    "project_id": "coep-news-feed-app",
+    "storage_bucket": "coep-news-feed-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451525792774:android:5a1444d221d0b282",
+        "android_client_info": {
+          "package_name": "e.user.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451525792774-ht4ljestlgl4oivd3tuhnq706klc2nql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.user.afinal",
+            "certificate_hash": "b0d6221c5752d3464b7a756f40984c1f6f9e7cc8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJiJdaHL9XPYlqyE11DFdp9KrRJNvgVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451525792774-fsl593anfg33untb49ghl8lit8b95kuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
